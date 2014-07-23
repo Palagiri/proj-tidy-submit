@@ -14,4 +14,4 @@ The end result was to have a tidy and clean data set with the following rules :
 2. There are different files those carry different subjects and the activity, we need to merge them.
 3. After the merge there are so many rows and columns (10299 * 564 )
 4. created a data set should just have the mean and standard deviation columns in it.
-5. The final submission shall have the average of each variable for each avtivity and for each Subject.
+5. The final submission have the average of each variable for each avtivity and for each Subject.
